@@ -8,12 +8,12 @@
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Experiment 6: Setting the tone with a piezo buzzer 
 
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](missingimage.png)
+
 
 (Insert a caption here)
 
