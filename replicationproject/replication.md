@@ -19,6 +19,21 @@ https://www.bareconductive.com/make/introducing-the-touch-board/
 
 This project is related to mine because firstly the board plays certain sounds depending on what is touch. My project and the touch board both have a similar function as they are both trigger by touch which then plays audio from speakers. Although the touch board has a different connection element as they use a electric Paint pen. 
 
+### Related project 2 ###
+Pringles drum kit
+
+https://www.instructables.com/id/Pringle-Can-MIDI-Drums/
+
+The pringles drum kit is related to mine with materials and function. The both banana's and pringles are materials that are household objects, the play a fun and interesting part in the project. This projects also plays sounds by touch circuit this is obviously the main function in the banana keyboard also. 
+
+### Related project 3 ###
+Coke piano 
+
+https://www.youtube.com/watch?v=Ttm62RBdOuo
+
+The coke piano is comparable to the banana keyboard as they are both clearly the same instrument with sound projecting from it. Again it has the same function and materials, as the coke cans are a unusual but exciting part of the project, this also reflects the banana keyboard. 
+
+
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
 
@@ -56,9 +71,9 @@ This project is related to mine because firstly the board plays certain sounds d
 
 
 ## Interaction flowchart ##
-*Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+
+![Image](flowchart)
 
 ## Process documentation
 
@@ -72,7 +87,8 @@ This youtube video was help getting started with coding and basically wrapping m
 https://www.youtube.com/watch?time_continue=9&v=GEpZrvbsO7o&feature=emb_title
 This youtube video was found on the microbit website for the banana keyboard. This video gave me an in-depth understanding of the circuit and the more technical side of the project. Although the outcome and coding didn't represent what I was trying to achieve it had very similar function and circuit. 
 
-*This should have quite a lot of information!*
+https://www.youtube.com/watch?v=qtDZ3fYyUN0
+This was an bit of an inspiration and understanding touch sensitive circuit. It also has a similar function and piano sounds to the banana keyboard. 
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
@@ -99,7 +115,7 @@ The banana keyboard is a fun way to play with sound or music and learning the ba
 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
-![Image](process 1)
+![Image]( )
 
 ### Reflection ###
 
