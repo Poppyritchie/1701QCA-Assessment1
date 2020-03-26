@@ -64,23 +64,30 @@ This project is related to mine because firstly the board plays certain sounds d
 
 *In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
 
+The main source that helped me majorly with my project was youtube videos and other similar projects like the touch board. 
+
+https://www.youtube.com/watch?v=Q_kbW2-qksw
+This youtube video was help getting started with coding and basically wrapping my head around how it performs. Although this video doesn't seem very credential it still gave me an idea on how to put it together in the beginnning. 
+
+https://www.youtube.com/watch?time_continue=9&v=GEpZrvbsO7o&feature=emb_title
+This youtube video was found on the microbit website for the banana keyboard. This video gave me an in-depth understanding of the circuit and the more technical side of the project. Although the outcome and coding didn't represent what I was trying to achieve it had very similar function and circuit. 
+
 *This should have quite a lot of information!*
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
-![Image](missingimage.png)
+![Image](process 2)
 
-*Include screenshots of the code you have used.*
+![Image](screenshot)
 
 ## Project outcome ##
 
 *Complete the following information.*
 
 ### Project title ###
-
+Banana Keyboard 
 ### Project description ###
-
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+The banana keyboard is a fun way to play with sound or music and learning the basics of tones and beats. The banana keyword can be altered with any conductive fruit for example; oranges, lime, lemon, grapfruit. The idea is of this keyboard is to explore sound with a touch trigger and uncommon objects. This project is for anyone that enjoys sound or music but especially the younger people that like a silly but educational project.  
 
 ### Showcase image ###
 
@@ -92,7 +99,7 @@ This project is related to mine because firstly the board plays certain sounds d
 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
-![Image](missingimage.png)
+![Image](process 1)
 
 ### Reflection ###
 
