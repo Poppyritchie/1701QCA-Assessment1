@@ -49,6 +49,23 @@ Responsive + conductive ink tapestry installation
 
 https://www.designboom.com/technology/conductive-ink-responds-to-tactile-feedback-to-create-sound-12-06-2013/
 
+### Related project 5 ###
+
+Music playing wall 
+
+![Image](Project5)
+
+https://www.youtube.com/watch?v=RG5Fi-eCLbc&feature=share
+
+### Related project 6 ###
+
+Hidden Stories 
+
+![Image](Project6)
+
+https://redpaperheart.com/work/hiddenstories
+
+
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
 
@@ -108,11 +125,11 @@ https://www.youtube.com/watch?v=qtDZ3fYyUN0
 
 ![Image](1)
 
-![Image](process 1)
+![Image](Process 1)
 
 ![Image](3)
 
-![Image](process 2)
+![Image](Process 2)
 
 ![Image](screenshot)
 
