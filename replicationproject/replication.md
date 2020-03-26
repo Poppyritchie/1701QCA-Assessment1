@@ -15,9 +15,9 @@ Touch Board
 
 https://www.bareconductive.com/make/introducing-the-touch-board/
 
-![Image](missingimage.png)
+![Image](Touch board)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because firstly the board plays certain sounds depending on what is touch. My project and the touch board both have a similar function as they are both trigger by touch which then plays audio from speakers. Although the touch board has a different connection element as they use a electric Paint pen. 
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
