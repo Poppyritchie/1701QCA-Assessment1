@@ -24,11 +24,12 @@ Pringles drum kit
 
 https://www.instructables.com/id/Pringle-Can-MIDI-Drums/
 
+![Image](pringles)
 The pringles drum kit is related to mine with materials and function. The both banana's and pringles are materials that are household objects, the play a fun and interesting part in the project. This projects also plays sounds by touch circuit this is obviously the main function in the banana keyboard also. 
 
 ### Related project 3 ###
 Coke piano 
-
+![Image](coke cans)
 https://www.youtube.com/watch?v=Ttm62RBdOuo
 
 The coke piano is comparable to the banana keyboard as they are both clearly the same instrument with sound projecting from it. Again it has the same function and materials, as the coke cans are a unusual but exciting part of the project, this also reflects the banana keyboard. 
