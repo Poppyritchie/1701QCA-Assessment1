@@ -11,7 +11,6 @@
 Experiment 6: Setting the tone with a piezo buzzer 
 
 #### Photo of completed project ####
-*In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
 ![Image](Buzzer.HEIC)
 
@@ -28,7 +27,6 @@ This experiment could be the basis of a real world application such as any kind 
 Experiment 7: Wind power 
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](wind power) 
 
@@ -45,7 +43,6 @@ This experiment could be the basis of a real world application such as wind ener
 Experiment 3: Dimming and LED using a potentiometer 
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](dimmer) 
 
@@ -62,7 +59,6 @@ This experiment could be the basis of a real world application such as normal ho
 Experiment 4: Using a transistor to drive a motor 
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](transistor motor)
 
@@ -76,18 +72,17 @@ This experiment could be the basis of a many real world application such as fans
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Experiment 1: Say hello 
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Say hello)
 
-(Insert a caption here)
+Say hello 
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was pretty much the basics of coding and downloading onto the microbit as this excerise was one of the first times playing around with the mircobit. It gave me an understanding of how it all comes together. Also the basic and input blocks when coding, plus I learnt about the breadboards connections. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as LED signs. It remains me of the LED road signs that say for example "Drive safely" or "Road works ahead", it is related to this experiment as they both light up and have a message move across the screen.
 
