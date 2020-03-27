@@ -125,11 +125,11 @@ https://www.youtube.com/watch?v=qtDZ3fYyUN0
 
 ![Image](1)
 
-![Image](Process 1.HEIC)
+![Image](P1.HEIC)
 
 ![Image](3)
 
-![Image](Process 2.HEIC)
+![Image](P2.HEIC)
 
 ![Image](screenshot)
 
