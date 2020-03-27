@@ -35,7 +35,7 @@ The pringles drum kit is related to mine with materials and function. The both b
 
 Coke piano 
 
-![Image](coke cans)
+![Image](coke cans.png)
 
 https://www.youtube.com/watch?v=Ttm62RBdOuo
 
@@ -125,11 +125,11 @@ https://www.youtube.com/watch?v=qtDZ3fYyUN0
 
 ![Image](1)
 
-![Image](Process 1)
+![Image](Process 1.HEIC)
 
 ![Image](3)
 
-![Image](Process 2)
+![Image](Process 2.HEIC)
 
 ![Image](screenshot)
 
