@@ -28,7 +28,7 @@ Experiment 7: Wind power
 
 #### Photo of completed project ####
 
-![Image](wind power) 
+![Image](wind power.HEIC) 
 
 Wind power breadboard 
 
@@ -44,7 +44,7 @@ Experiment 3: Dimming and LED using a potentiometer
 
 #### Photo of completed project ####
 
-![Image](dimmer) 
+![Image](dimmer.HEIC) 
 
 Dimming an LED breadboard
 
@@ -60,7 +60,7 @@ Experiment 4: Using a transistor to drive a motor
 
 #### Photo of completed project ####
 
-![Image](transistor motor)
+![Image](transistor motor.HEIC)
 
 Transistor to drive a motor breadboard
 
@@ -76,7 +76,7 @@ Experiment 1: Say hello
 
 #### Photo of completed project ####
 
-![Image](Say hello)
+![Image](Say hello.HEIC)
 
 Say hello 
 
