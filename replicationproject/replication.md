@@ -17,7 +17,7 @@ Touch Board
 
 https://www.bareconductive.com/make/introducing-the-touch-board/
 
-![Image](Touch board)
+![Image](Touch)
 
 This project is related to mine because firstly the board plays certain sounds depending on what is touch. My project and the touch board both have a similar function as they are both trigger by touch which then plays audio from speakers. Although the touch board has a different connection element as they use a electric Paint pen. 
 
@@ -35,7 +35,7 @@ The pringles drum kit is related to mine with materials and function. The both b
 
 Coke piano 
 
-![Image](coke cans.png)
+![Image](coke)
 
 https://www.youtube.com/watch?v=Ttm62RBdOuo
 
