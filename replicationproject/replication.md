@@ -144,7 +144,7 @@ The banana keyboard is a fun way to play with sound or music and learning the ba
 
 ### Showcase image ###
 
-![Image](banana keyboard)
+![Image](banana.HEIC)
 
 ### Additional view ###
 
